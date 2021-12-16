@@ -1,0 +1,18 @@
+[[package]]
+name = "rangehttpserver"
+version = "1.2.0"
+description = "SimpleHTTPServer with support for Range requests"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "e08f0cb066ea8cee30ba5d19a7f47d6e495e6741e3eff3829532046a428eb026"
+
+[metadata.files]
+rangehttpserver = [
+    {file = "rangehttpserver-1.2.0-py2.py3-none-any.whl", hash = "sha256:57e4a27ea2d8dd7bacec52713f1d4421e2696ee3d75f1564d5e5d89536d774ad"},
+    {file = "rangehttpserver-1.2.0.tar.gz", hash = "sha256:ce47a420d04c8161d28f35538b3d2fc77cea5c54968c3e3e6a508d64e04ea7a2"},
+]
